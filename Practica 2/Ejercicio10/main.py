@@ -259,6 +259,7 @@ def generar_matriz(celdas_bombas):
 
 resultado = generar_matriz(celdas_bombas)
 
+print('Matriz de resultados')
 for fila in resultado:
     print(fila)
 
